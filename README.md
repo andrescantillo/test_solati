@@ -1,17 +1,5 @@
-# Instalación de solati_front
-
-## Project setup
-
-```
-cd solati_front
-```
-
-```
-Abrir el archivo index.html
-```
 
 # Instalación de solati_api
-
 ### Pre-requisitos 
 
 _Que cosas necesitas para poner en marcha el proyecto y como instalarlos_
@@ -71,3 +59,36 @@ Paso a paso de lo que debes ejecutar para tener el proyecto ejecutandose
 ## Construido con 🛠️
 
 * Framework de PHP [Laravel](https://laravel.com/docs/10.x).
+
+# Solati Frontend
+## Descripción
+
+Solati fronted esta desarrollado con las siguientes tecnologias:
+
+* HTML5
+* Bootstrap 5
+* SweetAlert
+* Datatable
+* JavaScript Vanilla
+
+Esta aplicación cuenta con:
+
+* Inicio de session 
+* Consumo EndPoints con Fectch
+* Validacion de session
+* Pagina DashBoard
+* Lista de Compañías
+* Lista de Empleados
+* Responsive Design
+
+## Instalación de solati_front
+
+### Project setup
+
+```
+Copiar todo el contenido de la carpeta solati_front de su servidor apache (Laragon, XAMPP,WAMP etc...)
+```
+
+```
+Escribir la URL del servidor local y el nombre de la carpeta, en mi caso http://localhost/solati_front
+```
