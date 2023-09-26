@@ -7,7 +7,7 @@ cd solati_front
 ```
 
 ```
-abrir el archivo index.html
+Abrir el archivo index.html
 ```
 
 # Instalación de solati_api
@@ -62,6 +62,11 @@ Paso a paso de lo que debes ejecutar para tener el proyecto ejecutandose
     ```
     php artisan serve --port=8000
     ```  
+
+ 6. Validar pruebas
+   ```
+    php artisan test
+   ```
 
 ## Construido con 🛠️
 
